@@ -1,6 +1,6 @@
 <?php
 
-namespace Tetranz\Select2EntityBundle\DependencyInjection;
+namespace Zangai\Select2DocumentBundle\DependencyInjection;
 
 use Symfony\Component\DependencyInjection\ContainerBuilder;
 use Symfony\Component\Config\FileLocator;
@@ -12,7 +12,7 @@ use Symfony\Component\DependencyInjection\Loader;
  *
  * To learn more see {@link http://symfony.com/doc/current/cookbook/bundles/extension.html}
  */
-class TetranzSelect2EntityExtension extends Extension
+class Zangai\Select2DocumentExtension extends Extension
 {
     /**
      * {@inheritDoc}

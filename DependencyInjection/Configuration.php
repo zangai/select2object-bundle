@@ -1,6 +1,6 @@
 <?php
 
-namespace Tetranz\Select2EntityBundle\DependencyInjection;
+namespace Zangai\Select2DocumentBundle\DependencyInjection;
 
 use Symfony\Component\Config\Definition\Builder\TreeBuilder;
 use Symfony\Component\Config\Definition\ConfigurationInterface;
